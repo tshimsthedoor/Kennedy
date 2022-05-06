@@ -1,0 +1,46 @@
+
+
+  div
+    {
+        float: left;
+        width: 100%;
+        
+       
+    }
+
+    ul
+    {
+        float: right;
+        
+        height: 40px;
+        padding-right: 200px;
+        padding-top: 70px;
+        margin: 0 4 0 8px;
+    }
+
+    li { 
+        float: left; 
+        
+    }
+
+    ul a
+    {
+        color: blue;
+        padding: 0 2px;
+        text-decoration: underline;
+        list-style-type: none;
+    }
+
+    ul a:hover { 
+        color: #333; 
+    }
+
+    ul.demo {
+        list-style-type: none;
+        margin-bottom: 20px;
+        padding-bottom: 5px;
+      }
+
+      de{
+          color: blue;
+      }
